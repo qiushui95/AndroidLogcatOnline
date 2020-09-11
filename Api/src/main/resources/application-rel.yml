@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url:  jdbc:mysql://172.27.0.16/AndroidLogcat?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: 123456
